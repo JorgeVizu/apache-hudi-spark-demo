@@ -1,0 +1,12 @@
+datos/
+jars/
+*.jar
+*.log
+spark-warehouse/
+metastore_db/
+artifacts/
+.sparkStaging/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
